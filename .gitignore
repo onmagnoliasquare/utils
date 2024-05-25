@@ -19,3 +19,10 @@
 
 # Go workspace file
 go.work
+
+# Yarn
+.yarn/*
+.yarn/releases
+.yarn/plugins
+.pnp.*
+
