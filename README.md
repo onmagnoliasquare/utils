@@ -6,3 +6,4 @@ Miscellaneous utilities for OMS.
 
 - `bin` contains exported binaries. These are actual programs.
 - `packages` contains the actual code for the binaries.
+- `deploy` contains microservice deployments and adapters.
